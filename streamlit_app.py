@@ -17,4 +17,4 @@ if st.button("おみくじを引く"):
         st.write(f"{user_name}さんの結果:{result}")
     else:
         st.write(f"結果:{result}")
-    st.write(commets[result])
+    st.write(comments[result])
