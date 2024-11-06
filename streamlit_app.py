@@ -1,2 +1,2 @@
 import streamlit as st
-st.write("コンニチハ")
+st.write(1)
