@@ -1,2 +1,3 @@
 import streamlit as st
-st.write(7/3)
+x=523
+st.write(x)
