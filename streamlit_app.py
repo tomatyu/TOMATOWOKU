@@ -1,2 +1,2 @@
 import streamlit as st
-st.write(7879*4532)
+st.write(787*7980*6896)
